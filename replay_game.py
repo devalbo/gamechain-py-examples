@@ -5,9 +5,8 @@ from gamechain.games import gp_tictactoe
 
 # init_game_msg = "bitcoincash-gc:62baa03f179a69a7974cdf18bd94a9969cb9094cd1540c5797f5d0f43ed6d81c"
 # init_game_msg = "bitcoincash-gc:353278db4ff3e77c17c2abc87c59cc9506c7f64ac7fdbbee68d0e1a88a7e3337"
-# init_game_msg = "bitcoincash-gc:af6cbfdf7160d59f50199f81fa0f3c9de8710104b2cdf61ffdcd2ec0729118ae"
+init_game_msg = "bitcoincash-gc:af6cbfdf7160d59f50199f81fa0f3c9de8710104b2cdf61ffdcd2ec0729118ae"
 # init_game_msg = "bitcoincash-gc:08167c7cdfba0af2770ed5ce018d5a48ff56d960ec70d12cf3556c3e013e377f"
-init_game_msg = "bitcoincash-gc:196bbabd4806558e52b899561cbe73f51ce65332790a0380c5eaacf63e6ec965"
 
 
 stt_txid = init_game_msg.split("bitcoincash-gc:")[1]
