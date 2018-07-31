@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+bitcash = {git = "git://github.com/devalbo/bitcash.git"}
+socketio-client = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
